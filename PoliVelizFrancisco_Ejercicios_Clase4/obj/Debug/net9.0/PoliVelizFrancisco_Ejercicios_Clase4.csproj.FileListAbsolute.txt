@@ -1,0 +1,15 @@
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase4\bin\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase4.exe
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase4\bin\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase4.deps.json
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase4\bin\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase4.runtimeconfig.json
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase4\bin\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase4.dll
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase4\bin\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase4.pdb
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase4\obj\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase4\obj\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase4.AssemblyInfoInputs.cache
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase4\obj\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase4.AssemblyInfo.cs
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase4\obj\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase4.csproj.CoreCompileInputs.cache
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase4\obj\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase4.sourcelink.json
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase4\obj\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase4.dll
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase4\obj\Debug\net9.0\refint\PoliVelizFrancisco_Ejercicios_Clase4.dll
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase4\obj\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase4.pdb
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase4\obj\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase4.genruntimeconfig.cache
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase4\obj\Debug\net9.0\ref\PoliVelizFrancisco_Ejercicios_Clase4.dll
