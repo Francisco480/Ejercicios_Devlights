@@ -1,0 +1,14 @@
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase1y2\bin\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase1y2.exe
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase1y2\bin\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase1y2.deps.json
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase1y2\bin\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase1y2.runtimeconfig.json
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase1y2\bin\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase1y2.dll
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase1y2\bin\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase1y2.pdb
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase1y2\obj\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase1y2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase1y2\obj\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase1y2.AssemblyInfoInputs.cache
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase1y2\obj\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase1y2.AssemblyInfo.cs
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase1y2\obj\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase1y2.csproj.CoreCompileInputs.cache
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase1y2\obj\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase1y2.dll
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase1y2\obj\Debug\net9.0\refint\PoliVelizFrancisco_Ejercicios_Clase1y2.dll
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase1y2\obj\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase1y2.pdb
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase1y2\obj\Debug\net9.0\PoliVelizFrancisco_Ejercicios_Clase1y2.genruntimeconfig.cache
+C:\Users\poliv\OneDrive\Escritorio\Bootcamp Devlights\PoliVelizFrancisco_Ejercicios_Clase1y2\obj\Debug\net9.0\ref\PoliVelizFrancisco_Ejercicios_Clase1y2.dll

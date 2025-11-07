@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Bootcamp_Clase2/1.0.0": {
+        "runtime": {
+          "Bootcamp_Clase2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bootcamp_Clase2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
